@@ -43,6 +43,11 @@
 
 1. **Clone & install**  
    ```bash
-   git clone https://github.com/<your-username>/BrokerInbox-MCP.git
-   cd BrokerInbox-MCP
+   git clone https://github.com/DISHANK-PATEL/Broker-Inbox.git
+   cd project
    npm install
+   bun index.ts
+   Get the apiKey,apiSecret,access_token
+   Enable Gmail API
+   Configure OAuth Consent Screen
+
